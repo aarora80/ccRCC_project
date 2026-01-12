@@ -1,6 +1,6 @@
 # Multimodal Fusion for ccRCC Survival Prediction
 
-This repository explores **how different multimodal fusion strategies combine heterogeneous medical data** to predict a binary clinical outcome (**Alive vs Dead**) for patients with clear cell Renal Cell Carcinoma (ccRCC).
+This repository explores **how different multimodal fusion strategies combine heterogeneous medical data** to predict a binary clinical outcome for patients with clear cell Renal Cell Carcinoma (ccRCC).
 
 Rather than optimizing for a single metric, the goal is to **understand how fusion design choices affect model behavior, robustness, and interpretability**, which is critical for clinical and thesis-level research.
 
