@@ -21,7 +21,7 @@ Each patient has the following modalities:
 - MRI embeddings  
 - CT embeddings  
 - Modality presence masks  
-- Binary survival label (**Alive / Dead**)
+- Binary survival label 
 
 **Important:**  
 The dataset is **highly class-imbalanced**, which strongly affects how metrics such as accuracy should be interpreted.
@@ -44,7 +44,7 @@ All available modalities are **concatenated into one large feature vector**, inc
 
 This vector is passed directly into a **multi-layer perceptron (MLP)** that outputs a binary prediction:
 
-> **Alive vs Dead**
+> **Alive vs Not**
 
 No modality structure is preserved after concatenation.
 
