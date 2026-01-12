@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Data, models, logs
+data/
+models/
+logs/
+*.pt
+*.pth
+*.npz
+*.parquet
+
+# Environments
+.env
+.venv
+conda/
+
+# Cirkit repo (treated as dependency, not project code)
+cirkit/
+
+# OS
+.DS_Store
+
+multi-modal-ist.github.io/
