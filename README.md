@@ -193,7 +193,6 @@ Performance should be interpreted **in context**, with attention to:
 
 - Large datasets and trained models are excluded from GitHub  
 - Code is structured for clarity and reproducibility  
-- Intended for **research, thesis, and exploratory analysis**
 
 ---
 
