@@ -119,8 +119,6 @@ This behavior is expected and informative:
 **Takeaway:**  
 Intermediate fusion enforces **structured, probabilistic reasoning**, trading raw predictive power for interpretability and theoretical guarantees.
 
-This makes it well-suited for **thesis-level and methodological analysis**.
-
 ---
 
 ## 3. Late Fusion (Weighted Prediction Aggregation)
